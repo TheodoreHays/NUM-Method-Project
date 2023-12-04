@@ -1,7 +1,7 @@
 
-% Sydney Nelson
-% u1399500
-% Lab 9
+% Sydney Nelson, Theodore Hays
+% u1399500,      u1379892
+% Lab 09
 clear, clc, close all
 
 
